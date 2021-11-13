@@ -6,7 +6,8 @@ from create_wave import *
 from complexity import *
 import matplotlib.pyplot as plt
 
-signal = sig_array("/Users/adammoszczynski/Desktop/pycode/calc_proj/orchestra.wav")
+file = #your .wav file here
+signal = sig_array(file)
 #plt.figure(1)
 #plt.title("Signal Wave...")
 #plt.plot(signal)
